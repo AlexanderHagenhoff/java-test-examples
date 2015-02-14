@@ -4,7 +4,11 @@
 
     <groupId>java-test-examples</groupId>
     <artifactId>java-test-examples</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>mapper</module>
+    </modules>
     <name>java-test-examples</name>
 
     <repositories>
