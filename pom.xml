@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>mapper</module>
+        <module>argument-captor</module>
     </modules>
     <name>java-test-examples</name>
 
